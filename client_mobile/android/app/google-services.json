@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "172013065053",
+    "firebase_url": "https://com-on-forward.firebaseio.com",
+    "project_id": "com-on-forward",
+    "storage_bucket": "com-on-forward.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172013065053:android:77ef80917538f377300eb4",
+        "android_client_info": {
+          "package_name": "com.forward.comon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "172013065053-mf8uih6umkbkdvp6lnmg572dd2n4pvem.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8m7zAw8HriQY89nNL8AUqvVX014l2JVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "172013065053-mf8uih6umkbkdvp6lnmg572dd2n4pvem.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "172013065053-kmpq005k1ekfenhfhnst7dd61ddausad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.forward.com-on"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

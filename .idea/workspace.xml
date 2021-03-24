@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e24608a2-3b03-4b94-9c89-de85619f1139" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client_web/lib/area.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_web/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/client_web/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_web/lib/login/CardsTwitch.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_web/lib/login/CardsTwitch.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_web/lib/login/SignIn.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_web/lib/login/SignIn.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_web/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_web/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_web/lib/splash.dart" beforeDir="false" afterPath="$PROJECT_DIR$/client_web/lib/intro.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client_web/server/server.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1puTCjvcJ3HfykTn5WywprFEYPK" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../B-DOP-500-LIL-5-1-popeye-esteban.costa" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\stron\AndroidStudioProjects\B-YEP-500-LIL-5-1-area-esteban.costa" />
+      <recent name="C:\Users\stron\AndroidStudioProjects\B-YEP-500-LIL-5-1-area-esteban.costa\client_web\lib" />
+      <recent name="C:\Users\stron\AndroidStudioProjects\B-YEP-500-LIL-5-1-area-esteban.costa\client_web\lib\login" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\stron\AndroidStudioProjects\B-YEP-500-LIL-5-1-area-esteban.costa\client_web\assets" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e24608a2-3b03-4b94-9c89-de85619f1139" name="Default Changelist" comment="" />
+      <created>1616031849612</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616031849612</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="638" y="319" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616032490032">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="638" y="319" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1616032490032" />
+    <state x="624" y="224" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1616559865520">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="624" y="224" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1616559865520" />
+    <state x="687" y="235" key="FileChooserDialogImpl" timestamp="1616587803447">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="687" y="235" key="FileChooserDialogImpl/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1616587803447" />
+    <state x="336" y="97" key="SettingsEditor" timestamp="1616031898072">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="336" y="97" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1616031898072" />
+    <state x="604" y="39" width="712" height="1002" key="find.popup" timestamp="1616584527806">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="604" y="39" width="712" height="1002" key="find.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1616584527806" />
+  </component>
+</project>
